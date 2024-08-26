@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>royal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>رويال قروب</h1>
+        <nav>
+            <ul>
+                <li><a href="">الرئيسية</a></li>
+                <li><a href="">التعيئة و التغليق</a></li>
+                <li><a href="">تصميم و تطباعة</a></li>
+                <li><a href="">اعلان و تسويق</a></li>
+                <li><a href="">من نحن؟</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="markt">
+
+        <div class="main">
+            <h1>تجربة التميز </h1>
+            <h1>مع رويال قروب</h1>
+           
+        </div>
+    </div>
+    <div class="hd">
+        <h1 >التعبئة و التغليف</h1>
+    </div>
+    <div class="ta">
+      
+      
+        <div class="ma">
+            <h1>التعبئة و التغليف</h1>
+            <p>نساعدك ع اختيار الشكل المناسب لمنتجاتك كما نوفر لك كل ادوات التعبئة و التغليف</p>
+        </div>
+    </div>
+    <div class="hd">
+        <h1 >اعلان و تسويق</h1>
+    </div>
+    <div class="sell" dir="ltr">
+        <div class="mai">
+            <h1 dir="rtl">نعمل من اجل ذياده معدلات المبيعات</h1>
+            <p>عن طريق الخدمات التي نوفرها لك من</p>
+            <ul>
+                <li>تعبئة و تغليف</li>
+                <li>تصميم و طباعه</li>
+                <li>اعلان و تسويق</li>
+            </ul>
+    </div>
+    <div class="hd">
+        <h1 >تصميم و طباعة</h1>
+        </div>
+        <div class="design" dir="rtl">
+            <div class="mm">
+                <h1>تصميم وطباعة</h1>
+                <p>تصاميم تساعدك ع تحويل احلامك الي حقيقة</p>
+            </div>
+        </div>
+  <footer>
+    <h1>Copy Right: royal@groub.com</h1>
+  </footer>
+</body>
+</html>
